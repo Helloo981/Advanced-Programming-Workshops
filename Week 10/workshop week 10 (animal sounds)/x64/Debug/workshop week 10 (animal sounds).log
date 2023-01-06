@@ -1,0 +1,9 @@
+﻿  workshop week 10 (animal sounds).cpp
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\workshop week 10 (animal sounds).cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\workshop week 10 (animal sounds).cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\Cow.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\workshop week 10 (animal sounds).cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\Sheep.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\workshop week 10 (animal sounds).cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\Frisian.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  workshop week 10 (animal sounds).vcxproj -> C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 10\workshop week 10 (animal sounds)\x64\Debug\workshop week 10 (animal sounds).exe
