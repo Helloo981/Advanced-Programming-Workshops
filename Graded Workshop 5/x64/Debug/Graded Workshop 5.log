@@ -1,8 +1,0 @@
-﻿  Graded Workshop 5.cpp
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\Graded Workshop 5.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\rectangle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\shape.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\Graded Workshop 5.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\triangle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\Graded Workshop 5.cpp(38,9): warning C4551: function call missing argument list
-  Graded Workshop 5.vcxproj -> C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 5\Graded Task Wk 5\Graded Workshop 5\x64\Debug\Graded Workshop 5.exe
