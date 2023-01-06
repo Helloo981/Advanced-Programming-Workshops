@@ -1,0 +1,6 @@
+﻿  A.cpp
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 8\workshop 8 graded\A.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  workshop 8 graded.cpp
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 8\workshop 8 graded\workshop 8 graded.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  workshop 8 graded.vcxproj -> C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 8\workshop 8 graded\x64\Debug\workshop 8 graded.exe
