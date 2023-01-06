@@ -1,0 +1,5 @@
+﻿  Workshop 2 - Advanced Programming.cpp
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 2\Workshop 2\Workshop 2 - Advanced Programming\Workshop 2 - Advanced Programming.cpp(18,9): warning C4101: 'numberOfSentences': unreferenced local variable
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 2\Workshop 2\Workshop 2 - Advanced Programming\Workshop 2 - Advanced Programming.cpp(17,9): warning C4101: 'numberOfWords': unreferenced local variable
+C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 2\Workshop 2\Workshop 2 - Advanced Programming\Workshop 2 - Advanced Programming.cpp(16,9): warning C4101: 'count': unreferenced local variable
+  Workshop 2 - Advanced Programming.vcxproj -> C:\Users\molli\OneDrive\Documents\Advanced Programming\Week 2\Workshop 2\Workshop 2 - Advanced Programming\x64\Debug\Workshop 2 - Advanced Programming.exe
